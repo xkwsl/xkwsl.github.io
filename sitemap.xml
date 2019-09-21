@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xkwsl.github.io/post/2019.9.1/</loc>
-    <lastmod>2019-09-01T22:18:15+08:00</lastmod>
+    <loc>https://xkwsl.github.io/post/2019.9.21/</loc>
+    <lastmod>2019-09-21T22:51:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xkwsl.github.io/tags/office%E4%BA%8C%E7%BA%A7/</loc>
+    <lastmod>2019-09-21T22:51:22+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://xkwsl.github.io/post/</loc>
-    <lastmod>2019-09-01T22:18:15+08:00</lastmod>
+    <lastmod>2019-09-21T22:51:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xkwsl.github.io/tags/</loc>
+    <lastmod>2019-09-21T22:51:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xkwsl.github.io/tags/html/</loc>
+    <lastmod>2019-09-10T22:46:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xkwsl.github.io/post/htmltext/</loc>
+    <lastmod>2019-09-10T22:46:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xkwsl.github.io/about/</loc>
+    <lastmod>2019-09-02T07:06:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xkwsl.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    <lastmod>2019-09-02T07:06:34+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://xkwsl.github.io/</loc>
+    <lastmod>2019-09-01T22:53:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xkwsl.github.io/post/2019.9.1/</loc>
     <lastmod>2019-09-01T22:18:15+08:00</lastmod>
   </url>
   
@@ -29,10 +64,6 @@
   
   <url>
     <loc>https://xkwsl.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://xkwsl.github.io/tags/</loc>
   </url>
   
 </urlset>

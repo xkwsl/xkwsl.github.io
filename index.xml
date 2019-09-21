@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xkwsl study diary</title>
+    <title>这是首页 on xkwsl study diary</title>
     <link>https://xkwsl.github.io/</link>
-    <description>Recent content on xkwsl study diary</description>
+    <description>Recent content in 这是首页 on xkwsl study diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 22:18:15 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 22:53:16 +0800</lastBuildDate>
     
 	<atom:link href="https://xkwsl.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019.9.21</title>
+      <link>https://xkwsl.github.io/post/2019.9.21/</link>
+      <pubDate>Sat, 21 Sep 2019 22:51:22 +0800</pubDate>
+      
+      <guid>https://xkwsl.github.io/post/2019.9.21/</guid>
+      <description>第一次计算机二级考试 好难受啊 这次我二级题目都没做完  这次失误第一当我难受的是身份证忘带了。 第二个是我刷题太少，做题不熟练，时间到了，没做完，结果近三分之一的题没做完。 第三是我不会骑自行车 :( 我是跑回去的，结果出了很多汗，当天又是早上，结果就肚子疼，考试时拉肚子了，解题速度也慢了很多。 接下来我得好好学习自己的课程 吸取我失败的原因，做好自己的课程学习和下次准备，最近任务落实。
+目前方向
+ 数据结构等其他科目
+ 关注算法
+ 重温Java，注意关注框架
+ 了解Linux
+  目前就这样了，我没那么脆弱 &amp;#10084;</description>
+    </item>
+    
+    <item>
+      <title>Htmltext</title>
+      <link>https://xkwsl.github.io/post/htmltext/</link>
+      <pubDate>Tue, 10 Sep 2019 22:46:24 +0800</pubDate>
+      
+      <guid>https://xkwsl.github.io/post/htmltext/</guid>
+      <description>&amp;lt;!DOCTYPE HTML&amp;gt;   body { font-size:70%; font-family:verdana,helvetica,arial,sans-serif; } 
+function cnvs_getCoordinates(e) { x=e.clientX; y=e.clientY; document.getElementById(&amp;ldquo;xycoordinates&amp;rdquo;).innerHTML=&amp;ldquo;Coordinates: (&amp;rdquo; + x + &amp;ldquo;,&amp;rdquo; + y + &amp;ldquo;)&amp;rdquo;; }
+function cnvs_clearCoordinates() { document.getElementById(&amp;ldquo;xycoordinates&amp;rdquo;).innerHTML=&amp;ldquo;&amp;rdquo;; }  
+把鼠标悬停在下面的矩形上可以看到坐标：</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://xkwsl.github.io/about/</link>
+      <pubDate>Mon, 02 Sep 2019 07:06:34 +0800</pubDate>
+      
+      <guid>https://xkwsl.github.io/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2019.9</title>

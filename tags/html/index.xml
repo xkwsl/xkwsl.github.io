@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on xkwsl study diary</title>
+    <link>https://xkwsl.github.io/tags/html/</link>
+    <description>Recent content in html on xkwsl study diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2019 22:46:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://xkwsl.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Htmltext</title>
+      <link>https://xkwsl.github.io/post/htmltext/</link>
+      <pubDate>Tue, 10 Sep 2019 22:46:24 +0800</pubDate>
+      
+      <guid>https://xkwsl.github.io/post/htmltext/</guid>
+      <description>&amp;lt;!DOCTYPE HTML&amp;gt;   body { font-size:70%; font-family:verdana,helvetica,arial,sans-serif; } 
+function cnvs_getCoordinates(e) { x=e.clientX; y=e.clientY; document.getElementById(&amp;ldquo;xycoordinates&amp;rdquo;).innerHTML=&amp;ldquo;Coordinates: (&amp;rdquo; + x + &amp;ldquo;,&amp;rdquo; + y + &amp;ldquo;)&amp;rdquo;; }
+function cnvs_clearCoordinates() { document.getElementById(&amp;ldquo;xycoordinates&amp;rdquo;).innerHTML=&amp;ldquo;&amp;rdquo;; }  
+把鼠标悬停在下面的矩形上可以看到坐标：</description>
+    </item>
+    
+  </channel>
+</rss>
